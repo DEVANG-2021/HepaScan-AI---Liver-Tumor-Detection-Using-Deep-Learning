@@ -63,6 +63,6 @@ The project utilizes the following technologies:
 
 ### Output Video
 [![Demo Video](![image](https://github.com/user-attachments/assets/b5f113bf-b6b8-420c-9fe4-fdffb5d31b72)
-)](https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link)
+)(https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link)]
 
 
