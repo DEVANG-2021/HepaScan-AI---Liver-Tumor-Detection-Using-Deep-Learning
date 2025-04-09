@@ -62,6 +62,6 @@ The project utilizes the following technologies:
 - Gopi Krishna [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">Linkedin</a>]
 
 ### Output Video
-[![image](https://github.com/user-attachments/assets/f18ebf42-a106-46af-b64d-832cfb60eda7)(<a href="https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link" target="_blank">)]
+[![Demo video](<a href="https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link" target="_blank">)]
 
 
