@@ -1,4 +1,4 @@
-# HepaScan-AI-Liver-Tumor-Detection-Using-Deep-Learning
+# HepaScan AI - Liver-Tumor-Detection-Using-Deep-Learning
 This repository contains the source code and documentation for the Liver Tumor Detection project.
 
 # Liver Tumor Detection Using Deep Learning
@@ -62,7 +62,6 @@ The project utilizes the following technologies:
 - Gopi Krishna [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">Linkedin</a>]
 
 ### Output Video
-[![Demo Video](![image](https://github.com/user-attachments/assets/b5f113bf-b6b8-420c-9fe4-fdffb5d31b72)
-)(https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link)]
+[![Demo Video](<a href="[https://drive.google.com/drive/folders/1xNZrCv-brEJmQ0ELoge_Q_57qGuJqEu4](https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link)" target="_blank">)]
 
 
