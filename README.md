@@ -1,12 +1,6 @@
 # HepaScan AI - Liver-Tumor-Detection-Using-Deep-Learning
 This repository contains the source code and documentation for the Liver Tumor Detection project.
 
-# Liver Tumor Detection Using Deep Learning
-
-## Capstone Project (Final Year BTech CSE)
-
-This repository contains the source code and documentation for the Liver Tumor Detection project, which was developed as a part of the final year Bachelor of Technology in Computer Science and Engineering (BTech CSE) capstone project.
-
 ### Project Overview
 
 The Liver Tumor Detection project aims to develop a user-friendly web application utilizing Deep Learning techniques for the detection and detection of liver tumors in medical images. The key features of the project include:
